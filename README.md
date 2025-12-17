@@ -149,7 +149,7 @@ Soy **Ignacio Scarfo**, estudiante de **Ingeniería en Sistemas de Información*
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Contacto y Redes</h2></summary>
+    <summary><h2 style="display: inline-block">Cualquier cosa buscame en las redes!</h2></summary>
   </ul>
 </div>
 
@@ -157,7 +157,8 @@ Soy **Ignacio Scarfo**, estudiante de **Ingeniería en Sistemas de Información*
   <a href="https://www.linkedin.com/in/ignacio-scarfo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp; <a href="scarfoignacio@gmail.com" target="_blank">
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=scarfoignacio@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
